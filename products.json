@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "photo frame",
+        "price": 499,
+        "image": { "fields": { "file": { "url": "1.photo-frame.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "wall sticker",
+        "price": 275,
+        "image": { "fields": { "file": { "url": "2.wall-stiker.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "bamboo flute",
+        "price": 380,
+        "image": { "fields": { "file": { "url": "3.bamboo-flutes.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "pendant",
+        "price": 199,
+        "image": { "fields": { "file": { "url": "4.pendant.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "wallpaper",
+        "price": 199,
+        "image": { "fields": { "file": { "url": "5.wallpaper.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "photos",
+        "price": 150,
+        "image": { "fields": { "file": { "url": "1.photo-frame.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "photo frame",
+        "price": 299,
+        "image": { "fields": { "file": { "url": "krsnaKunj.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "photo frame",
+        "price": 225,
+        "image": { "fields": { "file": { "url": "1.photo-frame.jpg" } } }
+      }
+    }
+  ]
+}
